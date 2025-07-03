@@ -1,0 +1,16 @@
+{
+  "subtitles": [
+    {
+      "video_id": "video1",
+      "language": "es",
+      "label": "Español",
+      "url": "https://video-v1.mydramawave.com/vt/prod/12587/1_b18e33e6-1042-4994-879c-47bf183862bc.srt"
+    },
+    {
+      "video_id": "video1",
+      "language": "en",
+      "label": "English",
+      "url": "https://video-v1.mydramawave.com/vt/prod/12587/1_3e7fe927-2a4a-4972-9985-60a0d35759ee.srt"
+    }
+  ]
+}
