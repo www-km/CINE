@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv>
+  <channel id="video1">
+    <display-name>Mi Video</display-name>
+  </channel>
+
+  <programme start="20250703100000 +0000" stop="20250703120000 +0000" channel="video1">
+    <title>Mi Video con Subtítulos</title>
+    <desc>Este es un ejemplo de video con subtítulos externos.</desc>
+    <subtitles>
+      <subtitle lang="es">https://video-v1.mydramawave.com/vt/prod/12587/1_b18e33e6-1042-4994-879c-47bf183862bc.srt</subtitle>
+      <subtitle lang="en">https://video-v1.mydramawave.com/vt/prod/12587/1_3e7fe927-2a4a-4972-9985-60a0d35759ee.srt</subtitle>
+      <subtitle lang="fr">https://servidor.com/subtitulos/sub_fr.srt</subtitle>
+    </subtitles>
+  </programme>
+</tv>
