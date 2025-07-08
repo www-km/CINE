@@ -1,0 +1,4 @@
+#EXTM3U
+#EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="subtitles",NAME="Español",LANGUAGE="es-ES",URI="https://raw.githubusercontent.com/www-km/CINE/main/es.m3u8"
+#EXT-X-STREAM-INF:BANDWIDTH=1179136,AVERAGE-BANDWIDTH=956615,VIDEO-RANGE=SDR,FRAME-RATE=24,RESOLUTION=432x768,SUBTITLES="subtitles",CODECS="avc1.64001e,mp4a.40.2"
+https://dj0vkl2i4vsbo.cloudfront.net/convert/Alpha%20King's%20Hated%20Slave/en/2024-08-23%2016:17:34/1_.m3u8
